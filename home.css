@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: #24353F !important;
+    box-shadow: 5px 5px 20px 1px black;
+
+}
+nav a{
+    color: white !important;
+}
+nav button{
+    background-color:#24353F !important;
+    color: gray !important;
+    border: #FFC107 solid 1px !important;
+    transition: all 0.25s;
+    cursor: pointer;
+}
+nav button:hover{
+    background-color: #FFC107 !important;
+    color: white !important;
+}
+
+main{
+    background-color: #24353F;
+}
+.contant{
+    width: 50%;
+    background-color: #24353F;
+    padding: 50px 30px;
+    box-shadow: 10px 5px 50px 5px black;
+    text-align: center;
+}
+h1{
+    color: #17A2B8;
+
+}
